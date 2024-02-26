@@ -1,5 +1,6 @@
 # Reto_2-ServicioBibliotecario
 
+```mermaid
 classDiagram
     Usuario"1"-->"1" Biblioteca: Search()
     Biblioteca--*Libro
@@ -36,3 +37,4 @@ classDiagram
       +Estructura
       +Tematica
     }
+```
