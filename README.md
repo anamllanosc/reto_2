@@ -1,4 +1,4 @@
-# Reto_2-ServicioBibliotecario
+# Reto_2_ServicioBibliotecario
 
 ```mermaid
 classDiagram
